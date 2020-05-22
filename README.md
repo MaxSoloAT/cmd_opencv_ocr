@@ -1,3 +1,3 @@
 # cmd_opencv_ocr
 
-[![Result_0]](https://youtu.be/68PeOwrJEJk)
+[![Results videos link(youtube) ]](https://www.youtube.com/playlist?list=PLafFFVfjAANTZlmoBQh6HSaR69EGfdmFr)
